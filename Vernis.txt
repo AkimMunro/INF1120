@@ -1,0 +1,5 @@
+Identifiant du vernis|prix par pied carré
+101|3.50
+102|3.75
+103|4.0
+

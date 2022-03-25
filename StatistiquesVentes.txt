@@ -1,0 +1,3 @@
+Le vernis à base d’eau|1
+Le vernis à base d’huile|0
+Le vernis à l’alcool|0

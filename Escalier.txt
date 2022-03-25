@@ -1,0 +1,3 @@
+Nombre de marches|prix par marche|Nombre de contremarches|prix par contremarche
+1|30.0|1|15.0
+
